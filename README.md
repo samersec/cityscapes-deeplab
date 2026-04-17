@@ -6,7 +6,18 @@ Upload any street photo → the model segments it into 34 classes (road, car, bu
 
 ---
 
+## Screenshots
 
+<p align="center">
+  <img src="image1.png" width="48%" />
+  <img src="image2.png" width="48%" />
+</p>
+<p align="center">
+  <img src="image3.png" width="48%" />
+  <img src="image4.png" width="48%" />
+</p>
+
+---
 
 ## Tech Stack
 
